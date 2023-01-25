@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Updating Portfolio with NextJS Framework**
 
-- 🌱 I’m currently learning **NextJS, Redux Toolkit,GraphQL**
+- 🌱 I’m currently learning **NextJS, Redux Toolkit, GraphQL**
 
 - 📫 How to reach me **raghademaad163@gmail.com**
 
