@@ -18,5 +18,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghad-emad&show_icons=true&locale=en" alt="raghad-emad" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghad-emad&" alt="raghad-emad" /></p>
 
